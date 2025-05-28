@@ -1,2 +1,2 @@
 # ohio
-author -- starlord
+author -- starlord(today)
